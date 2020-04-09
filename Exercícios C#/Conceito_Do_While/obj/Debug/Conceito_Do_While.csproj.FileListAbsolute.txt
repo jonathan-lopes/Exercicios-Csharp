@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\Conceito_Do_While\obj\Debug\Conceito_Do_While.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Conceito_Do_While\obj\Debug\Conceito_Do_While.Form1.resources
+C:\Users\pc\source\repos\Conceito_Do_While\obj\Debug\Conceito_Do_While.Properties.Resources.resources
+C:\Users\pc\source\repos\Conceito_Do_While\obj\Debug\Conceito_Do_While.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Conceito_Do_While\obj\Debug\Conceito_Do_While.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Conceito_Do_While\bin\Debug\Conceito_Do_While.exe.config
+C:\Users\pc\source\repos\Conceito_Do_While\bin\Debug\Conceito_Do_While.exe
+C:\Users\pc\source\repos\Conceito_Do_While\bin\Debug\Conceito_Do_While.pdb
+C:\Users\pc\source\repos\Conceito_Do_While\obj\Debug\Conceito_Do_While.exe
+C:\Users\pc\source\repos\Conceito_Do_While\obj\Debug\Conceito_Do_While.pdb

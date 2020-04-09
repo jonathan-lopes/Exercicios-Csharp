@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Amazenamentos de vareaveis\bin\Debug\WindowsForms_Amazenamentos de vareaveis.exe.config
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Amazenamentos de vareaveis\bin\Debug\WindowsForms_Amazenamentos de vareaveis.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Amazenamentos de vareaveis\bin\Debug\WindowsForms_Amazenamentos de vareaveis.pdb
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Amazenamentos de vareaveis\obj\Debug\WindowsForms_Amazenamentos de vareaveis.csprojAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Amazenamentos de vareaveis\obj\Debug\WindowsForms_Amazenamentos_de_vareaveis.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Amazenamentos de vareaveis\obj\Debug\WindowsForms_Amazenamentos de vareaveis.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Amazenamentos de vareaveis\obj\Debug\WindowsForms_Amazenamentos de vareaveis.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Amazenamentos de vareaveis\obj\Debug\WindowsForms_Amazenamentos de vareaveis.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Amazenamentos de vareaveis\obj\Debug\WindowsForms_Amazenamentos de vareaveis.pdb
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Amazenamentos de vareaveis\obj\Debug\WindowsForms_Amazenamentos_de_vareaveis.Formteste.resources

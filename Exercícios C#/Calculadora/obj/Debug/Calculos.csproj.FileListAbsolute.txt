@@ -1,0 +1,7 @@
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculos\bin\Debug\Calculos.exe.config
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculos\bin\Debug\Calculos.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculos\bin\Debug\Calculos.pdb
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculos\obj\Debug\Calculos.csprojAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculos\obj\Debug\Calculos.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculos\obj\Debug\Calculos.pdb

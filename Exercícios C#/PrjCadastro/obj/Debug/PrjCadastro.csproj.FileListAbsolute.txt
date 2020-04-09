@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\PrjCadastro\bin\Debug\PrjCadastro.exe.config
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\PrjCadastro\bin\Debug\PrjCadastro.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\PrjCadastro\bin\Debug\PrjCadastro.pdb
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\PrjCadastro\obj\Debug\PrjCadastro.csprojAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\PrjCadastro\obj\Debug\PrjCadastro.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\PrjCadastro\obj\Debug\PrjCadastro.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\PrjCadastro\obj\Debug\PrjCadastro.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\PrjCadastro\obj\Debug\PrjCadastro.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\PrjCadastro\obj\Debug\PrjCadastro.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\PrjCadastro\obj\Debug\PrjCadastro.pdb

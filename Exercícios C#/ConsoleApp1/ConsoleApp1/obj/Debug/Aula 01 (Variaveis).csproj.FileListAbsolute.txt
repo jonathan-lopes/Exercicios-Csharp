@@ -1,0 +1,4 @@
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\ConsoleApp1\ConsoleApp1\obj\Debug\Aula 01 (Variaveis).csprojAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\ConsoleApp1\ConsoleApp1\obj\Debug\Aula 01 (Variaveis).csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

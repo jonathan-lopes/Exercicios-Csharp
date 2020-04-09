@@ -1,0 +1,20 @@
+C:\Users\pc\source\repos\Calculo_media\bin\Debug\Calculo_media.exe.config
+C:\Users\pc\source\repos\Calculo_media\bin\Debug\Calculo_media.exe
+C:\Users\pc\source\repos\Calculo_media\bin\Debug\Calculo_media.pdb
+C:\Users\pc\source\repos\Calculo_media\obj\Debug\Calculo_media.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Calculo_media\obj\Debug\Calculo_media.Form1.resources
+C:\Users\pc\source\repos\Calculo_media\obj\Debug\Calculo_media.Properties.Resources.resources
+C:\Users\pc\source\repos\Calculo_media\obj\Debug\Calculo_media.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Calculo_media\obj\Debug\Calculo_media.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Calculo_media\obj\Debug\Calculo_media.exe
+C:\Users\pc\source\repos\Calculo_media\obj\Debug\Calculo_media.pdb
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculo_media\bin\Debug\Calculo_media.exe.config
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculo_media\bin\Debug\Calculo_media.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculo_media\bin\Debug\Calculo_media.pdb
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculo_media\obj\Debug\Calculo_media.csprojAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculo_media\obj\Debug\Calculo_media.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculo_media\obj\Debug\Calculo_media.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculo_media\obj\Debug\Calculo_media.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculo_media\obj\Debug\Calculo_media.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculo_media\obj\Debug\Calculo_media.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Calculo_media\obj\Debug\Calculo_media.pdb

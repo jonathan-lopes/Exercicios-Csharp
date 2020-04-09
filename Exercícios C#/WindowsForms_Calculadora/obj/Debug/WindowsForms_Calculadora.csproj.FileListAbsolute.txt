@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Calculadora\bin\Debug\WindowsForms_Calculadora.exe.config
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Calculadora\bin\Debug\WindowsForms_Calculadora.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Calculadora\bin\Debug\WindowsForms_Calculadora.pdb
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Calculadora\obj\Debug\WindowsForms_Calculadora.csprojAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Calculadora\obj\Debug\WindowsForms_Calculadora.FormCalc.resources
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Calculadora\obj\Debug\WindowsForms_Calculadora.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Calculadora\obj\Debug\WindowsForms_Calculadora.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Calculadora\obj\Debug\WindowsForms_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Calculadora\obj\Debug\WindowsForms_Calculadora.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\WindowsForms_Calculadora\obj\Debug\WindowsForms_Calculadora.pdb

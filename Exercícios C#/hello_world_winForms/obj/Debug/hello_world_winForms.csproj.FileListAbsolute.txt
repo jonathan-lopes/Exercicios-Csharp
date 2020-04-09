@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\hello_world_winForms\bin\Debug\hello_world_winForms.exe.config
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\hello_world_winForms\bin\Debug\hello_world_winForms.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\hello_world_winForms\bin\Debug\hello_world_winForms.pdb
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\hello_world_winForms\obj\Debug\hello_world_winForms.csprojAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\hello_world_winForms\obj\Debug\hello_world_winForms.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\hello_world_winForms\obj\Debug\hello_world_winForms.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\hello_world_winForms\obj\Debug\hello_world_winForms.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\hello_world_winForms\obj\Debug\hello_world_winForms.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\hello_world_winForms\obj\Debug\hello_world_winForms.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\hello_world_winForms\obj\Debug\hello_world_winForms.pdb

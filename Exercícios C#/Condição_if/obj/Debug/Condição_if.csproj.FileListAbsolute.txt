@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Condição_if\bin\Debug\Condição_if.exe.config
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Condição_if\bin\Debug\Condição_if.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Condição_if\bin\Debug\Condição_if.pdb
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Condição_if\obj\Debug\Condição_if.csprojAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Condição_if\obj\Debug\Condição_if.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Condição_if\obj\Debug\Condição_if.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Condição_if\obj\Debug\Condição_if.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Condição_if\obj\Debug\Condição_if.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Condição_if\obj\Debug\Condição_if.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Condição_if\obj\Debug\Condição_if.pdb

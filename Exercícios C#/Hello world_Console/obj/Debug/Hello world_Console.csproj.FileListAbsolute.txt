@@ -1,0 +1,7 @@
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Hello world_Console\bin\Debug\Hello world_Console.exe.config
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Hello world_Console\bin\Debug\Hello world_Console.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Hello world_Console\bin\Debug\Hello world_Console.pdb
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Hello world_Console\obj\Debug\Hello world_Console.csprojAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Hello world_Console\obj\Debug\Hello world_Console.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Hello world_Console\obj\Debug\Hello world_Console.exe
+C:\Users\pc\Documents\Visual Studio 2019\Projetos\Hello world_Console\obj\Debug\Hello world_Console.pdb
