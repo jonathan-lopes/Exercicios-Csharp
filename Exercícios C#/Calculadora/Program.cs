@@ -54,3 +54,4 @@ namespace Calculos
             Console.ReadKey();
         }
     }
+} 
